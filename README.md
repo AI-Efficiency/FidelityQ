@@ -1,6 +1,6 @@
 # FidelityQ: Preserving Predictive Fidelity in Ultra-Low-Bit Language Model Quantization
 
-**[Paper (coming soon)]() | [Code (coming soon)](#code-and-models) | [Models (coming soon)](#code-and-models)**
+**[Paper](https://arxiv.org/abs/2610.14934) | [Code (coming soon)](#code-and-models) | [Models (coming soon)](#code-and-models)**
 
 Yujie Chen<sup>1</sup>, Weiyan Zheng<sup>2</sup>, Yiwu Yao<sup>2</sup>, Tianchi Hu<sup>2</sup>, Bo Wang<sup>2</sup>, Jiyu Guo<sup>3</sup>, Wenzhan Li<sup>4</sup>, Jingcai Guo<sup>1</sup>, Michele Magno<sup>5</sup>, Haotong Qin<sup>1,†</sup>
 
@@ -13,7 +13,7 @@ Yujie Chen<sup>1</sup>, Weiyan Zheng<sup>2</sup>, Yiwu Yao<sup>2</sup>, Tianchi 
 
 ## News
 
-- [2026/10] 🔥 The repository is created. Code and quantized checkpoints will be released in the coming days.
+- [2026/10] 🔥 The paper is available on [arXiv](https://arxiv.org/abs/2610.14934). Code and quantized checkpoints will be released in the coming days.
 
 ## Abstract
 
@@ -98,7 +98,7 @@ If you find FidelityQ useful, please cite:
 @article{chen2026fidelityq,
   title   = {FidelityQ: Preserving Predictive Fidelity in Ultra-Low-Bit Language Model Quantization},
   author  = {Chen, Yujie and Zheng, Weiyan and Yao, Yiwu and Hu, Tianchi and Wang, Bo and Guo, Jiyu and Li, Wenzhan and Guo, Jingcai and Magno, Michele and Qin, Haotong},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2610.14934},
   year    = {2026}
 }
 ```
